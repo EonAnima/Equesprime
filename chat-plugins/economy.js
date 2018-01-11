@@ -14,7 +14,7 @@ const MAX_TICKETS = 5;
 
 geoip.startWatchingDataUpdate();
 
-let shopTitle = 'Wisp Shop';
+let shopTitle = 'Tienda Equestre';
 let serverIp = '158.69.196.64';
 
 let prices = {
